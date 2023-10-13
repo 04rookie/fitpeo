@@ -10,6 +10,7 @@ export default function DashboardHeader() {
           md: "2",
           xl: "2",
         }}
+        gap="3"
         justify={"between"}
       >
         <Heading size="4">
